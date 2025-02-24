@@ -1,0 +1,4 @@
+Java	Backend   -------   logic & application processing
+MySQL	Database  -------   to store employee records
+JDBC	          -------   Database connectivity
+Maven           ------- 	Dependency management (if used)
