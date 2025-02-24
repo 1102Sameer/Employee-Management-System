@@ -1,0 +1,4 @@
+Add Employee    -----	Insert new employee details into the database
+View Employees  -----	Retrieve and display all employee records
+Update Employee -----	Modify existing employee details
+Delete Employee	----- Remove an employee from the database
